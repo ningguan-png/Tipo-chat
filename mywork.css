@@ -103,7 +103,8 @@ section {
 	width: 40vw;
 	height: 50vh;
 }
-#ads img {
+#ads div {
+	background-color: var(--second-color)
 	width: 20vw;
 	height: 50vh;
 	margin-left: 5vw;
